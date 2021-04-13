@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe_with_AI.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe_with_AI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/How many nuts each squirrel will get/Tic-Tac-Toe_with_AI.Problems-How_many_nuts_each_squirrel_will_get.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/How many nuts each squirrel will get/Tic-Tac-Toe_with_AI.Problems-How_many_nuts_each_squirrel_will_get.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/How many nuts each squirrel will get/Tic-Tac-Toe_with_AI.Problems-How_many_nuts_each_squirrel_will_get.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/How many nuts each squirrel will get/Tic-Tac-Toe_with_AI.Problems-How_many_nuts_each_squirrel_will_get.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/How many nuts each squirrel will get/Tic-Tac-Toe_with_AI.Problems-How_many_nuts_each_squirrel_will_get.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/How many nuts each squirrel will get/Tic-Tac-Toe_with_AI.Problems-How_many_nuts_each_squirrel_will_get.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Tic-Tac-Toe_with_AI.Problems-The_roots_of_an_equation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Tic-Tac-Toe_with_AI.Problems-The_roots_of_an_equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Tic-Tac-Toe_with_AI.Problems-The_roots_of_an_equation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Tic-Tac-Toe_with_AI.Problems-The_roots_of_an_equation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Tic-Tac-Toe_with_AI.Problems-The_roots_of_an_equation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Tic-Tac-Toe_with_AI.Problems-The_roots_of_an_equation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Problems/How many nuts each squirrel will get/out/
+/Problems/How many nuts each squirrel will get/out/production/classes/
+/Problems/The roots of an equation/out/
+/Problems/The roots of an equation/out/production/classes/
+/Tic-Tac-Toe with AI/task/build/
+/Tic-Tac-Toe with AI/task/out/
+/Tic-Tac-Toe with AI/task/out/production/classes/
